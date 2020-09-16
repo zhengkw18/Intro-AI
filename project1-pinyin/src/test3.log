@@ -1,0 +1,22 @@
+Testing lambda1=0 lambda2=0.99
+Accuracy: 0.746938775510204
+Testing lambda1=0.1 lambda2=0.89
+Accuracy: 0.7612244897959184
+Testing lambda1=0.2 lambda2=0.79
+Accuracy: 0.7642857142857142
+Testing lambda1=0.3 lambda2=0.69
+Accuracy: 0.763265306122449
+Testing lambda1=0.4 lambda2=0.59
+Accuracy: 0.763265306122449
+Testing lambda1=0.5 lambda2=0.49
+Accuracy: 0.7571428571428571
+Testing lambda1=0.6 lambda2=0.39
+Accuracy: 0.7622448979591837
+Testing lambda1=0.7 lambda2=0.29000000000000004
+Accuracy: 0.7591836734693878
+Testing lambda1=0.8 lambda2=0.18999999999999995
+Accuracy: 0.7581632653061224
+Testing lambda1=0.9 lambda2=0.08999999999999997
+Accuracy: 0.75
+
+Process finished with exit code 0

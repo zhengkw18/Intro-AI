@@ -1,0 +1,16 @@
+Testing lambda=0
+Accuracy: 0.7408163265306122
+Testing lambda=0.01
+Accuracy: 0.7408163265306122
+Testing lambda=0.02
+Accuracy: 0.7377551020408163
+Testing lambda=0.05
+Accuracy: 0.7346938775510204
+Testing lambda=0.1
+Accuracy: 0.7316326530612245
+Testing lambda=0.2
+Accuracy: 0.7224489795918367
+Testing lambda=0.5
+Accuracy: 0.7193877551020408
+
+Process finished with exit code 0

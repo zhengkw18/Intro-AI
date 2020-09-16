@@ -1,0 +1,119 @@
+Loading ../datasets/2016-02.txt
+Size of dic: 8013035
+Num of characters: 50054421
+Loading ../datasets/2016-04.txt
+Size of dic: 13263924
+Num of characters: 106650992
+Loading ../datasets/2016-05.txt
+Size of dic: 17046607
+Num of characters: 156939355
+Loading ../datasets/2016-06.txt
+Size of dic: 20322739
+Num of characters: 208607126
+Loading ../datasets/2016-07.txt
+Size of dic: 23084793
+Num of characters: 257843491
+Loading ../datasets/2016-08.txt
+Size of dic: 25833642
+Num of characters: 309041813
+Loading ../datasets/2016-09.txt
+Size of dic: 28116912
+Num of characters: 356334399
+Loading ../datasets/2016-10.txt
+Size of dic: 30077643
+Num of characters: 398461260
+Loading ../datasets/2016-11.txt
+Size of dic: 30319307
+Num of characters: 404163966
+Loading ../datasets/access_log.20060801.decode.filter
+Size of dic: 30426796
+Num of characters: 408233656
+Loading ../datasets/access_log.20060802.decode.filter
+Size of dic: 30510443
+Num of characters: 411582726
+Loading ../datasets/access_log.20060803.decode.filter
+Size of dic: 30600472
+Num of characters: 415306923
+Loading ../datasets/access_log.20060804.decode.filter
+Size of dic: 30685910
+Num of characters: 419178303
+Loading ../datasets/access_log.20060805.decode.filter
+Size of dic: 30749190
+Num of characters: 422266260
+Loading ../datasets/access_log.20060806.decode.filter
+Size of dic: 30808807
+Num of characters: 425338212
+Loading ../datasets/access_log.20060807.decode.filter
+Size of dic: 30883194
+Num of characters: 429106395
+Loading ../datasets/access_log.20060808.decode.filter
+Size of dic: 30955113
+Num of characters: 432852285
+Loading ../datasets/access_log.20060809.decode.filter
+Size of dic: 30966385
+Num of characters: 433438719
+Loading ../datasets/access_log.20060810.decode.filter
+Size of dic: 31035374
+Num of characters: 437196375
+Loading ../datasets/access_log.20060811.decode.filter
+Size of dic: 31097232
+Num of characters: 440700120
+Loading ../datasets/access_log.20060812.decode.filter
+Size of dic: 31146317
+Num of characters: 443676028
+Loading ../datasets/access_log.20060813.decode.filter
+Size of dic: 31193261
+Num of characters: 446701208
+Loading ../datasets/access_log.20060814.decode.filter
+Size of dic: 31256815
+Num of characters: 450429491
+Loading ../datasets/access_log.20060815.decode.filter
+Size of dic: 31318948
+Num of characters: 454209314
+Loading ../datasets/access_log.20060816.decode.filter
+Size of dic: 31377304
+Num of characters: 457818208
+Loading ../datasets/access_log.20060817.decode.filter
+Size of dic: 31432753
+Num of characters: 461408210
+Loading ../datasets/access_log.20060818.decode.filter
+Size of dic: 31485517
+Num of characters: 464846063
+Loading ../datasets/access_log.20060819.decode.filter
+Size of dic: 31524045
+Num of characters: 467548638
+Loading ../datasets/access_log.20060820.decode.filter
+Size of dic: 31562396
+Num of characters: 470277176
+Loading ../datasets/access_log.20060821.decode.filter
+Size of dic: 31617861
+Num of characters: 473819000
+Loading ../datasets/access_log.20060822.decode.filter
+Size of dic: 31670687
+Num of characters: 476899197
+Loading ../datasets/access_log.20060823.decode.filter
+Size of dic: 31721979
+Num of characters: 480045492
+Loading ../datasets/access_log.20060824.decode.filter
+Size of dic: 31769776
+Num of characters: 482965046
+Loading ../datasets/access_log.20060826.decode.filter
+Size of dic: 31806535
+Num of characters: 485387292
+Loading ../datasets/access_log.20060827.decode.filter
+Size of dic: 31840804
+Num of characters: 487704222
+Loading ../datasets/access_log.20060828.decode.filter
+Size of dic: 31888106
+Num of characters: 490636957
+Loading ../datasets/access_log.20060829.decode.filter
+Size of dic: 31933067
+Num of characters: 493572910
+Loading ../datasets/access_log.20060830.decode.filter
+Size of dic: 31971969
+Num of characters: 496250891
+Loading ../datasets/access_log.20060831.decode.filter
+Size of dic: 32008477
+Num of characters: 498791685
+
+Process finished with exit code 0
